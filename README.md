@@ -62,9 +62,8 @@ Preprocessing:
 ## Demo
 
 ### Input Image
-(Insert input image here)
+<img width="595" height="367" alt="image" src="https://github.com/user-attachments/assets/c8acdcc8-d93c-4edb-9021-f38259565609" />
 
-![input](path_to_input_image.png)
 
 ---
 
@@ -75,13 +74,6 @@ LSTM:
 
 Transformer:
 "a man is riding a bicycle on a street"
-
----
-
-### BLEU Comparison Chart
-(Insert chart here)
-
-![bleu](path_to_bleu_chart.png)
 
 ---
 
