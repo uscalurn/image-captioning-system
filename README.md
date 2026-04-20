@@ -50,30 +50,25 @@ Preprocessing:
 
 ### BLEU Score Comparison
 
-| Metric | LSTM | Transformer |
-|--------|------|-------------|
-| BLEU-1 | XXX  | XXX         |
-| BLEU-2 | XXX  | XXX         |
-| BLEU-3 | XXX  | XXX         |
-| BLEU-4 | XXX  | XXX         |
+<img width="595" height="367" alt="image" src="https://github.com/user-attachments/assets/2879ec28-855f-49bb-b954-a62c76afabe2" />
+
 
 ---
 
 ## Demo
 
 ### Input Image
-<img width="595" height="367" alt="image" src="https://github.com/user-attachments/assets/c8acdcc8-d93c-4edb-9021-f38259565609" />
+<img width="1000" height="667" alt="anhtest" src="https://github.com/user-attachments/assets/9282e55f-21fa-4345-a0c8-5f94c5daf4f6" />
+
 
 
 ---
 
 ### Output Caption
 
-LSTM:
-"a man riding a bike on the road"
 
-Transformer:
-"a man is riding a bicycle on a street"
+<img width="1468" height="891" alt="image" src="https://github.com/user-attachments/assets/f41c553b-a23c-40f8-9be4-13fc7d95481a" />
+
 
 ---
 
@@ -91,4 +86,4 @@ PyTorch, torchvision, numpy, pandas, nltk, matplotlib, PIL
 ---
 
 ## Author
-Image captioning project using LSTM and Transformer for deep learning practice.
+Nguyen Minh Nhan.
