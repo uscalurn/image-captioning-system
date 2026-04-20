@@ -58,8 +58,10 @@ Preprocessing:
 ## Demo
 
 ### Input Image
+LSTM:
 <img width="1000" height="667" alt="anhtest" src="https://github.com/user-attachments/assets/9282e55f-21fa-4345-a0c8-5f94c5daf4f6" />
-
+Transformer
+<img width="481" height="517" alt="image" src="https://github.com/user-attachments/assets/0bee7eda-ad85-4df2-b777-4e367570c3d7" />
 
 
 ---
